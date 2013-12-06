@@ -52,7 +52,7 @@ LIMITATIONS
 
 You will notice that zen is quite slow and buggy. Please feel free to report : zen crashes, and app crashes/exits that could be caused by X protocol bugs. 
 
-Most noticeable issing features :
+Most noticeable missing features :
 - All kinds of grabs
 - Various old fashioned rendering requests : CopyPlanes ; Arcs, and more
 - Most GC fields are ignored 
